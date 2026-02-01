@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Winner;Always+Learning+New+Tech&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jyotiBhardwajj&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
+</p>
+
 # Hi, I'm Jyoti Sharma 👋  
 ### 💻 BTech IT Student | Aspiring Software Engineer 🚀  
 
@@ -38,10 +46,21 @@ I love turning ideas into working products and constantly improving my coding sk
 
 ## 📊 GitHub Stats
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical)
+![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical&cache_seconds=1800)
 
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/jyotiBhardwajj/jyotiBhardwajj/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap)
 
 ---
 
