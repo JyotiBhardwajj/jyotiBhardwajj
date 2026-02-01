@@ -42,6 +42,7 @@ I love turning ideas into working products and constantly improving my coding sk
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical)
 
+
 ---
 
 ## 🚀 Featured Projects
