@@ -67,10 +67,10 @@ I love turning ideas into working products and constantly improving my coding sk
 ## 🚀 Featured Projects
 
 🔹 **HoodChat**  
-Real time chat application build with MERN and socket.io,
+Real time chat application build with MERN and socket.io
 
 🔹 **Helpdesk Management System**  
-Hostel complaint tracking system built using HTML, CSS, PHP, and MySQL.
+Hostel complaint tracking system built using HTML, CSS, PHP, and MySQL
 
 🔹 **YouTube Channel Analyzer**  
 A tool that analyzes YouTube channels using APIs and backend logic using Python
