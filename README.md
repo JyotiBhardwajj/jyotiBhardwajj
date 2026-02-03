@@ -45,24 +45,23 @@ I love turning ideas into working products and constantly improving my coding sk
 ---
 
 ## 📊 GitHub Stats
+![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical)
 
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical)
 
 ---
 
 ## 🐍 Contribution Snake
-
-![snake gif](https://github.com/jyotiBhardwajj/jyotiBhardwajj/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/jyotiBhardwajj/jyotiBhardwajj/output/snake.svg)
 
 ---
 
 ## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/byteexplorer?theme=dark&font=Baloo&ext=heatmap)
 
-![LeetCode Stats](https://leetcode.com/u/byteexplorer?theme=dark&font=Baloo&ext=heatmap)
 
 ---
+
 
 ## 🚀 Featured Projects
 
