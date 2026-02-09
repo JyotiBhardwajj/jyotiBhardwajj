@@ -61,6 +61,9 @@ I love turning ideas into working products and constantly improving my coding sk
 
 ## 🚀 Featured Projects
 
+🔹 **Green-Twin-Main**  
+ Designed an AI-powered carbon-aware route optimization platform for sustainable supply chain modeling.
+
 🔹 **HoodChat**  
 Real time chat application build with MERN and socket.io
 
