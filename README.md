@@ -45,9 +45,10 @@ I love turning ideas into working products and constantly improving my coding sk
 ---
 
 ## 📊 GitHub Stats
-![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical)
+![Jyoti's GitHub stats](https://jyoti-bhardwajj.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical)
+![Top Languages](https://jyoti-bhardwajj.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical)
+
 ---
 
 ## 🐍 Contribution Snake
