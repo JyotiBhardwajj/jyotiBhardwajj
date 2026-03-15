@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Winner;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jyotiBhardwajj&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
 </p>
