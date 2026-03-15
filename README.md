@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Enthusiast;Hackathon+Winner;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jyotiBhardwajj&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views"/>
 </p>
@@ -14,16 +12,19 @@
 Passionate about **Full Stack Development**, **Data Structures & Algorithms**, and building **real-world problem-solving projects**.  
 I love turning ideas into working products and constantly improving my coding skills.
 
----
+
+
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms  
 - Full Stack Web Development  
 - Backend Development & APIs  
 
----
+
 
 ## 🛠 Tech Stack
+
+
 
 ### 👩‍💻 Languages  
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
@@ -44,21 +45,21 @@ I love turning ideas into working products and constantly improving my coding sk
 ![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
----
+
 
 ## 📊 GitHub Stats
 ![Jyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyotiBhardwajj&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiBhardwajj&layout=compact&theme=radical)
 
----
+
 
 
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/byteexplorer?theme=dark&font=Baloo&ext=heatmap)
 
 
----
+
 
 
 ## 🚀 Featured Projects
@@ -79,7 +80,6 @@ A tool that analyzes YouTube channels using APIs and backend logic using Python
 A website just like AirBnb made with MERN and Cloudinary etc.
 
 
----
 
 ## 🏆 Achievements
 
@@ -88,7 +88,7 @@ A website just like AirBnb made with MERN and Cloudinary etc.
 🥈 2nd Place – IGDTUW IEEE WIEgnite 2.0 under WIEmpower 
 
 
----
+
 
 ## 🌐 Connect With Me
 
