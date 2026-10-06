@@ -56,7 +56,7 @@ I love turning ideas into working products and constantly improving my coding sk
 
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/byteexplorer?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jyotiSharma2804/?theme=dark&font=Baloo&ext=heatmap)
 
 
 
